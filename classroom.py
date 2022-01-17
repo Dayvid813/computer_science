@@ -33,3 +33,5 @@ def binsearch(sorted_listt, targett):
 resultt = binsearch(sorted_listt, targett)
 print('the target number is at the index:', resultt)
 
+
+
