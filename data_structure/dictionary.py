@@ -55,3 +55,8 @@ class_student_takes = student_classes.get("David")
 class_student_takes.sort()
 for classes in class_student_takes:
     print(classes)
+
+my_score = {"Math": 89, "Computer": 100, "Physics": "?", "ESL": 87, "Chemistry": 57}
+my_score.sort()
+my_Math_score = my_score.get("Math")
+print(my_score)
