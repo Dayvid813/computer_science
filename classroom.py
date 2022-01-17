@@ -15,7 +15,7 @@ def binary_search(sorted_list, target):
 result = binary_search(sorted_list, target)
 print('the target number is at the list index:', result)
 
-
+ 
 sorted_listt = [1, 2, 3, 4, 5, 6, 7]
 targett = 6
 def binsearch(sorted_listt, targett):
